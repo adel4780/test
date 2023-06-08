@@ -1,5 +1,5 @@
 import unittest
-from arithmetic_operations import add, subtract, multiply, divide
+from math import add, subtract, multiply, divide
 
 class TestArithmeticOperations(unittest.TestCase):
 
